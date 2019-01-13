@@ -4,7 +4,7 @@ This blog originated from my first cambly class, my English teacher, Stephan ask
 
 I have to admit that it is a complex and huge question. As we can see from the picture below, mandarin occupies most of the area. The things I should emphasize that there are many different accents for mandarin. There may be great differences between these accents, for me, a native Chinese speaker, may not understand it.
 
-![Chinese languages](../figures/blog1/Map of sinitic languages.png)
+![Chinese languages](../figures/blog1/Mapofsiniticlanguages.png)
 
 *Note: The figure above is quoted from https://en.wikipedia.org/wiki/List_of_varieties_of_Chinese*
 
