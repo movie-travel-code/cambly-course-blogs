@@ -1,0 +1,27 @@
+# Vocabulary
+
+- Emphasize
+- Territory
+- Abundant **[əˈbʌndənt]**
+- Abandon **[əˈbændən] **
+- Topography  **[təˈpɑ:grəfi]**
+- Last
+- Evolve
+- Adventurous
+- Account for
+- Slightly
+- Quote
+- Linguist
+- Revelant
+- Hieroglyph
+- Pass down
+- Regret
+- Suspend
+- Counsel
+- Organ
+- Barely
+- Loan
+- Refer
+- Extract
+- Mineral
+- Squat
