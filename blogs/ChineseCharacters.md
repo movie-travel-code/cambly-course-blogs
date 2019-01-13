@@ -2,7 +2,7 @@
 
 This blog originated from my first cambly class, my English teacher, Stephan asks me "What are the differences between [**mandarin**](https://en.wikipedia.org/wiki/Mandarin_Chinese) with other dialects?".
 
-I have to admit that it is a complex and huge problem. As we can see from the picture below, mandarin occupies most of the area. The things I should emphasize that there are many different accents for mandarin. There may be great differences between these accents, for me, a native Chinese speaker, may not understand it.
+I have to admit that it is a complex and huge question. As we can see from the picture below, mandarin occupies most of the area. The things I should emphasize that there are many different accents for mandarin. There may be great differences between these accents, for me, a native Chinese speaker, may not understand it.
 
 ![Chinese languages](../figures/blog1/Map of sinitic languages.png)
 
