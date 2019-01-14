@@ -8,7 +8,7 @@ For the time being, I've come up with alternative topics that may replace or rem
 ## 1.Chinese dialects and Chinese characters
 In this topic, I will introduce you the origin of Chinese characters and try to teach the readers several interesting Chinese characters.
 
-## 2.Confucion in China
+## 2.Confucian in China
 
 ## 3.Taoism in China
 
