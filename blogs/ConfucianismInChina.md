@@ -60,7 +60,7 @@ However Han just utilized part of the meaning of Confucianism, and didn't revise
 
 The two figures below is Fujian, a province in south of China, earth building.
 
-![earth building 1](/Users/henrywong/opensource/cambly-course-blogs/figures/blog2/earthbuild.jpeg)
+![earth building 1](../figures/blog2/earthbuild.jpeg)
 
 ![earth building2](../figures/blog2/earthbuild2.jpeg)
 
