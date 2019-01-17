@@ -1,6 +1,6 @@
 # Axial Age
 
->  **Axial  [ˈæksiəl]  Age** (also **Axis Age**,[[1\]](https://en.wikipedia.org/wiki/Axial_Age#cite_note-1) from [German](https://en.wikipedia.org/wiki/German_language): *Achsenzeit*) is a term coined by [German](https://en.wikipedia.org/wiki/Germany) [philosopher](https://en.wikipedia.org/wiki/Philosopher) [Karl Jaspers](https://en.wikipedia.org/wiki/Karl_Jaspers) in the sense of a "pivotal age" characterizing the period of [ancient history](https://en.wikipedia.org/wiki/Ancient_history) from about the 8th to the 3rd century BCE. - wikipedia
+> **Axial  [ˈæksiəl]  Age** (also **Axis Age**,[[1\]](https://en.wikipedia.org/wiki/Axial_Age#cite_note-1) from [German](https://en.wikipedia.org/wiki/German_language): *Achsenzeit*) is a term coined by [German](https://en.wikipedia.org/wiki/Germany) [philosopher](https://en.wikipedia.org/wiki/Philosopher) [Karl Jaspers](https://en.wikipedia.org/wiki/Karl_Jaspers) in the sense of a "pivotal age" characterizing the period of [ancient history](https://en.wikipedia.org/wiki/Ancient_history) from about the 8th to the 3rd century BCE. - wikipedia
 
 During this period, new ways of thinking appeared in Persia, India, China, and the Greco-Roman world in religion and philosophy, in striking parallel development. In this period, India produced Buddha, Greece produced Plato ['pleɪtoʊ], and China produced many schools of thought, including Taoism, Confucianism [kən'fju:ʃənɪzm] , Legalism. These three schools of thought have a profound influence on the ways Chinese people thinking. Espically, the Confucianism and Taoism.
 
@@ -44,7 +44,45 @@ However Han just utilized part of the meaning of Confucianism, and didn't revise
 
 ### Science
 
+Strictly speaking, Confucianism has no direct influence on the sicence. In contrast, the vast land and the large population is beneficial for the science development. Because we have to compute the lands area, taxes, and population. For a time, acient Chinese mathematics and astronomy [əˈstrɑ:nəmi]  were far ahead of the rest of the world. However the whole East lagged behind the West in modern times. This is called [Needham Question](https://en.wikipedia.org/wiki/Joseph_Needham#Needham_Question), but this is another story.
+
+The figure below is from the moive 《Apocalypto》directed by Mel Gibson, told a story about the the eve of the collapse of the Mayan Empire.  
+
+![apocalypto](../figures/blog2/apocalypto.png) 
+
+Maybe we can talk about these topic in the future through the book 《Guns, Germs, and Steel: The Fates of Human Societies》.
+
+![](../figures/blog2/gun.jpeg)
+
+Back to the truth, although I can't say the relationship between Confucianism and science, I vaguely feel that there are some relationships between them. 
+
+#### [Imperial examination](https://en.wikipedia.org/wiki/Imperial_examination)
+
+I some extent, China has the chance to develop the science due to the imperial examination. Imperial examination is a great invention that the empire select the officials according to their abilities. But the examination content mostly are Confucianism thoughts, these thoughts are good but has no benificial to science. And the more obvious this phenomenen is in the future. Say rudely, the Qing Dynasty, the last empire of China, the imperial examination selected a number of dumb guys.
+
+### Western
+
+As we all know, the West had a long Middle Ages, religion has always prevailed during this period until the Renaissance. Then it established the basic system of modern science.
+
+Recently, I am reading the book 《From Dawn to Decadence: 500 years of Western Culture Life》, but this book is huge, difficult and obscure to read. I have to learn about the Renaissance, the Protestant ['prɑ:tɪstənt]  Reformation. BTW, my name Henry is from this book, the king Henry VIII. He played a key role in the the Protestant ['prɑ:tɪstənt]  Reformation in England.
+
+![](../figures/blog2/from_dawn.jpg)
+
+#### Middle Ages
+
+#### The Renaissance ['renəsɑ:ns] 
+
+#### Age Of Discovery
+
+What you probably don't know is that before Columbus, China had made many ocean voyages as far as central Africa. But why just the West had the Age of Discovery? Because of the mind, the thoughts. China's geographical[ˌdʒi:ə'ɡræfɪkl]  location is very fortunate. the east is the Pacific Ocean, the north is Mongolian Plateau, the west are Pamir Plateau and Qinghai-Tibet Plateau. So we always think we are the center of the world. So in the Ming Dynasty, they were not to discover and explore, but to show their authority.
+
+![](../figures/blog2/Zheng-He.png)
+
 ### Creativity
+
+There is old Chinese saying "If the wood is beautiful in the forest, and the wind is sure to destroy it.", the Confucianism told us we should be humble, but sometimes it's pedantic[pəˈdæntɪk] . The Confucianism told us a gentleman should be like jade. It should not shine like gold. So I think it is the first reason why Chinese people has no creativity in modern society.
+
+The second reason is that we can't challenge the authority. In the West, the same problem exists, but the bad  guy is "religion", we all know Copernicus [kəuˈpə:nikəs], the great astronomer [əˈstrɑ:nəmə(r)] and Galileo. They had been fighting against the Church.
 
 ### Patriarchal clan
 
