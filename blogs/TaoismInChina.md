@@ -51,15 +51,25 @@ There are some objective laws are clear to us, like we all know the perpetual [p
 
 Like the diploma  [dɪˈploʊmə], in China universities, there are part of students try to cheat on the examination, however when they can get the diploma, they may think they have master the relevant knowledge. But what really represents competence is not the diploma, but the knowledge behind it.
 
+There so many things that we should not rely on, like reputation, like pray to the God, pray to the forefathers, they can't help you, right? What do really help you are  the courage and confidence behind the gods.
+
+Taoism tell us we should look through the appearance, and get the truth. In Taoism, they are very **fond of ** discussing the relationship between the name and enttiy.
+
+### 3.2 Govern by doing nothing that goes against nature
+
+That not means Taoism does not respect the **subjective initiative**. But we are required to act under objective laws.
+
+### 3.3 Three realms
+
+There is a Chinese novel come up with the three realms when we learn Taoism.
+
+#### 3.3 Moon in well
+
+Well is your heart, moon is the reality. "Moon in well" mainly tell people tell people you have to accept the world as it is. It is a dangerous idea. The world won't let tigers stop killing because just you like sheep.
+
+#### 3.4 One can be austere [ɔ:ˈstɪr] if he has no selfish desires
 
 
-### 3.2 大巧若拙
-
-### 3.3 井中月
-
-https://www.zhihu.com/search?type=content&q=in%20nek%20%E5%A2%83%E7%95%8C
-
-### 3.4 无为而治
 
 ## 4.The influence
 
