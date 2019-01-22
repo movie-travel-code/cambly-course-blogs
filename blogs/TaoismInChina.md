@@ -16,22 +16,22 @@ The kernel is a redesigned Taiji graph, the original Taiji is like the figure be
 
 Has you watched the video about the Bruce Lee "Be water, my friend"? You can click this link to watch the video https://www.youtube.com/watch?v=cJMwBwFj5nQ. =
 
-Bruce Lee profoundly reveals the impact of water on Chinese people. Water are always make a concession, water is very flexible, it never against the hard things.
+Bruce Lee profoundly reveals the impact of water on Chinese people. Water are always make a concession[kənˈsɛʃən]  , water is very flexible, it never against the hard things.
 
 - **Water is formless, therefore it can adapt to every form.**
-- **You, however, are often way too rigid.**
+- **You, however, are often way too rigid [ˈrɪdʒɪd].**
 - **You do not adapt.**
 - **Stop trying to make the teacup adjust to you and adjust to the teacup instead.**
 
-Like the Chinese will never show a tough side, they think we should be water, to influence the environment in a subtle way. **To a certain extent, it suppresses the idea of Chinese resistance**.
+Like the Chinese will never show a tough side, they think we should be like water, to influence the environment in a subtle way. **To a certain extent, it suppresses the idea of Chinese resistance**.
 
 ### 1.3 The differences between the Taoism and Confucianism
 
-To be a civilized man, or to be a natural man? The Confucianism says we should be a civilized man, but the Taoism says we should be a natual man.
+To be a civilized man, or to be a natural man? The Confucianism says we should be a civilized man, but the Taoism says we should be a natual man. Propriety[prəˈpraɪɪti] is all a matter of appearance, which we should leave behind to discover something more essential.
 
 There is a famous story to reveal the differences between Taoism and Confucianism. If we see a tiger hunting a sheep, for Confucianism, man should be kind, although it is not because the tigers are morally corrupt that they eat sheep, however we should save this sheep at least. 
 
-For Taoism, we should not interfere the hunting, because if we save sheep, the tiger will be starved. We should respect nature law.
+For Taoism, we should not interfere the hunting, because if we save sheep, the tiger will be starved. We should respect thenature law.
 
 ## 2.The Origin
 
@@ -65,7 +65,9 @@ There is a Chinese novel come up with the three realms when we learn Taoism.
 
 #### 3.3 Moon in well
 
-Well is your heart, moon is the reality. "Moon in well" mainly tell people tell people you have to accept the world as it is. It is a dangerous idea. The world won't let tigers stop killing because just you like sheep.
+Well is your heart, moon is the reality. "Moon in well" mainly tell people you have to accept the world as it is. The world won't let tigers stop killing because just you like sheep. 
+
+Taoism believes that you should have a ruthless view of the world, which is a necessary ability of a ruler. The ruler can't be biased or indecisive [ˌɪndɪˈsaɪsɪv]  . It's possible that you have to sacrifice one person to save more people.
 
 #### 3.4 One can be austere [ɔ:ˈstɪr] if he has no selfish desires
 
