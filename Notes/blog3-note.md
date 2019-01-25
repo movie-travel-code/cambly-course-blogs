@@ -24,7 +24,6 @@
   - not being susceptible to or admitting of something
   - lacking the necessary skill or knowledge
   - not meeting requirements
-
 - trade-off 交易权衡
   - an exchange that occurs as a compromise
 - compromise
@@ -80,27 +79,106 @@
   - Give over
 - concede [kənˈsid] 
   - 承认;让步，容许;承让
-- yield
+- yield [jild]
+  - 屈服，投降，生产，获利，反对
+  - 放弃，退让
+  - 产量，产额，投资的收益
 - subsidiary [səbˈsɪdieri]
-  - 附带的，附属的，次要的，帮助的，补足的
+  - adj, 附带的，附属的，次要的，帮助的，补足的
   - 附属事物，附属机构，附属者
 - rival  ['raɪvl] 
   - 对手，竞争者，
   - 与...竞争，比得上某人
-- dispute
-- litigation
+- dispute  [dɪˈspjut] 
+  - vt&vi 辩论，争论
+  - n 争端，纠纷，罢工
+  - a disagreement or argument about something important
+  - coming into conflict with
+  - take exception to 反对
+- litigation  [ˌlɪtɪˈɡeɪʃn] 打官司，诉讼
 - struggle
-- relinquish
-- monetary
-- subsidy
-- merit
+  - 搏斗，奋斗，努力，争取
+  - 打斗，竞争
+  - n. an energetic attempt to achieve something
+  - n. an open clash between two opposing groups
+  - n. strenuous effort
+  - Verb. make a strenuous or labored effort
+  - Verb. to exert strenuous effort against opposition
+- relinquish [rɪˈlɪŋkwɪʃ] 
+  - vt 放弃，让出（权利，财产），放开，松手
+- monetary  [ˈmʌnɪteri] 
+  - adj. 货币的，金钱的，钱的
+  - relating or involving money.
+- subsidy  [ˈsʌbsɪdi]
+  - n. 补贴，津贴，助学金，奖金
+  - a grant paid by a government or enterprise that benefits the public
+- merit [ˈmɛrɪt]
+  - n. 价值，优点，功德，功绩，功勋，荣誉
+  - Vt. 值得，应获得，[宗教]因行善应得
+  - Vi. 值得，应得，宗教积德
 - deed
+  - 行为，行动。[法律]契约，证书
+  - a notable achievement
+  - a legal document signed and sealed and delievered to effect
+- susceptible  [səˈsɛptəbəl] 
+  - 易受影响，敏感，过敏
+  - very likely to be influenced, harmed or affected
+  - easily influenced by feelings and emotions
+- bestow  [bɪˈstoʊ]
+  - 赠与，授予，放置，安置，贮藏
+    - I bestow my own attributes over liberally on him.
+- acknowledge
+  - 承认，鸣谢，对..打招呼，告知已收到
+  - declare to be true or admit the existence 
+  - report the receipt of
+  - Express recoganition of the presence
+- Confess
+  - v. 供认，坦白，悔过
+- resistance [rɪˈzɪstəns]
+  - 抵抗，阻力，抗力，电阻
+- energetic  [ˌenərˈdʒetɪk] 
+  - Adj. 精力充沛的，充满活力的，精力旺盛的，精神饱满的
+- clash
+  - Vt. 发出撞击声
+  - vi. 争论，不合，交锋
+  - n. 冲突，不协调
+- crash  [kræʃ] 
+- clap
+- individuals
+- strenuous  [ˈstrɛnjuəs]
+  - 费力的，用力的，热烈的，紧张的，奋发的
+- exert
+  - 发挥，运用，用（力）
+  - We all know that when we exert ourselves our heart rate increases.
+- awkward   [ˈɔ:kwərd]
+  - adj. 令人尴尬的，难对付的，不方便的，笨拙的
+- part with
+  - 失去，卖掉，与...分开
+- possession
+- cease
+- similarity
+- cede
+- fulfill
+- admire
+- liberate
+- receipt [rɪˈsit]
+- oblidation
+- gratitude
+- resonant  [ˈrɛzənənt]
+- compatiable
+- endurance
+- grace
+
+
 
 # Sentence Structure
 
 - They are deceiving themselves.
 - To be honest.
 - carry out
+- make a clean breast of
+  - 坦白讲出，倾吐
+  - Did the murderer make a clean breast of his crime.
 
 # Difference
 
@@ -109,5 +187,15 @@
 - To have the ability to do something means you are able to carry out the task, while having the capability to do it means you have the potential to do the task but you may not have mastered the skill yet.
 - Meaning there are limits to everyone’s abilities, and your capability defines the limit of your ability. Furthermore, capability can be influenced by external factors. For instance, I have the ability to walk, but am incapable of walking up the side of a building. I have the ability to drive, but am incapable of driving without a vehicle.
 
+## give up versus relinquish
 
+**give up** stop using something or stop doing something
+eg She gave up chocolate eg He gave up swimming.
+*This is a very common verb.*
+
+**relinquish** usually involves abandoning or ceding a right or possession.
+eg The Prince relinquished the Crown to his brother.
+eg He kept changing channels quickly, so his mother made him relinquish the TV remote control.
+
+## worthy versus deserve
 
