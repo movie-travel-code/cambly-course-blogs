@@ -78,7 +78,87 @@ This Spring Festival travel is a period of travel in China with extremely high t
 
 # What is Chinese Zodiac
 
-## The origin
+> The Chinese Zodiac is classification shceme that assigns an animal ant its reputed attributes to each year in a repeating 12-year cycle.
 
-## Zodiac in other countries
+The Chinese Zodiac may not originate from China, it may be from India or the Middle East. However, the Korea Zodiac, Vietnamese Zodiac, and  Japanese Zodiac are from China.
+
+## The bronze Zodiac in Yuanmingyuan(Old Summer Palace)
+
+Recent years, when it comes to Chinese Zodiac, I have to mention the bronze Zodiac in Yuanmingyuan. Chinese have very complex feelings about the bronze Zodiac in Yuanmingyuan. Because they were stolen in the Second Opium[ˈəʊpiəm]  War.
+
+![zodiac](../figures/blog4/bronzezodiac.jpg)
+
+
+
+Actually, they don't have so much artistic value, because they were designed by foreign missionary in 1759. The reason why they are so important to Chinese is that they are typical Chinese cultural relics, i.e. they are Chinese Zodiac, stolen by the soldiers of the Victory.
+
+> Two robbers breaking into a museum. One has looted, the other has burnt. ... one of the two conquerors filled its pockets, seing that, the other filled its safes; and they came back to Europe laughing hand-in-hand. ... Before history, one of the bandits will be called France and the other England. - [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) 
+
+When the bronze Zodiac first appeared after World War II, three of them just sold 1500$ in 1985. However, in 2009, the bronze rabbit auctioned 14 million Euro. The sellers think Chinese have to get it. If it is the bronze dragon, I'm afraid the final price will exceed 100 million.
+
+For now, the bronze snake, bronze sheep, bronze chicken, and bronze dog are still missing.
+
+With China more powerful, Chinese always want to take back what we lost. I think these thoughs are all right, but in my mind we should be better be moderate. Like the Germany after World War I, the emotions about restore glory are possibly used by the dangerous man.
+
+The typical example about these emotions is the Chinese law about narcotics [nɑ:'kɒtɪks]  .
+
+### Chinese law about narcotics
+
+If you sell the more than 50 grams of drugs, you will sentenced to death in China. The main reason behind this is that Chinese think drugs are a humiliation [hjuˌmɪliˈeʃən] to Chinese.  About 100 years ago, Britian opened the door to China with guns and opium. For a long time, Chinese and opium are bound together in the Western impression.
+
+![](../figures/blog4/opium.jpg)
+
+Few days ago, China sentences a Canadian to death for drugs smuggling. China can negotiate for all things except for the drugs.
+
+![](../figures/blog4/canadian.jpg)
+
+In 2009, a Chinese Heroin maker and seller, Liu Zhaohua, are executed to death punishment. But this guy are considered a hero by most Chinese, because he said, "I never sell drugs to Chinese, the drugs are all sold to foreigners. They once used opium opened the door to China, I want to use Heroin to open the door to foreign country."
+
+You see, Chinese never forget the hurts on Chinese. But this national sentiment could  become very scary. 
+
+I could say China is luckier than India and Ottoman Turkey, in 19th century there were ancient countries destroyed by emerging forces. 
+
+The figure below is the area of Ottoman Turkey in 1795.
+
+![](../figures/blog4/ottoman.png)
+
+But I have to say China and Ottoman Turkey onced play the role of aggressors.
+
+### Cultural Relic
+
+China has so many relics lost overseas, they are almost lost between 19th century and 20th century. They were sold by greedy businessman, stolen by foregin explorers, robbed by foreign soldiers. The reasons for that is complicated, we can't just blame the outsider.
+
+### Cultural Revolution
+
+You may probly know the Chinese Cultural Revolution, the simple reason is that the governer think feudal antiquity is the cause of China's backwardness. So we blindly destoyed all cultural relics, the relics lost overseas survived.
+
+The cultural relics destroy are still happening in Afghanistan and Syria.
+
+In the figure below, ISIS are destroying the relics.
+
+![](../figures/blog4/syria.jpg)
+
+### Should museums return Cultural relics?
+
+There is no answer for the question that should museums return Cultural relics. For me, because I'm Chinese, so I think the museum should return back. China now has the money and technology to protect these tresures.
+
+#### Egyptian Obelisk
+
+The most well-known Obelisk is the one at [Saint Peter's Square](https://en.wikipedia.org/wiki/Saint_Peter%27s_Square) in Rome. It was stolen in ancient Rome.
+
+![](../figures/blog4/speter.jpeg)
+
+#### code of Hammurabi
+
+#### The Metropolitan Museum of Art
+
+#### The Chinese Cultural Relic lost abroad.
+
+### Confidence in Chinese Culture
+
+中国近些年来非常强调文化自信，但是这些文化自信并不是依靠古老的东西，而是现在的成就。
+
+没有办法
+
+
 
