@@ -12,7 +12,7 @@ In this topic, I will introduce you the origin of Chinese characters and try to 
 
 ## 3.~~Taoism in China~~
 
-##4.Chinese Spring Festival and Chinese Zodiac
+## 4.Chinese Spring Festival and Chinese Zodiac
 
 In this topic I will introduce you the orgin, the activities, and the culture of Chinese Spring Festival.
 
