@@ -12,13 +12,13 @@ In this topic, I will introduce you the origin of Chinese characters and try to 
 
 ## 3.~~Taoism in China~~
 
-## ~~4.Chinese Spring Festival and Chinese Zodiac~~
+## ~~4.Chinese Spring Festival and Chinese Zodiac~~ Done
 
 In this topic I will introduce you the orgin, the activities, and the culture of Chinese Spring Festival.
 
 ## 5.《[Guns, Germs, and Steel: The Fates of Human Societies](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552)》
 
-## 6.[Hepatitis B in China](https://en.wikipedia.org/wiki/Hepatitis_B_in_China)
+## ~~6.[Hepatitis B in China](https://en.wikipedia.org/wiki/Hepatitis_B_in_China)~~ Done
 
 ## 7.About your favoriate movie.
 
