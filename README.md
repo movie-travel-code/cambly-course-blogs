@@ -20,19 +20,24 @@ In this topic I will introduce you the orgin, the activities, and the culture of
 
 ## ~~6.[Hepatitis B in China](https://en.wikipedia.org/wiki/Hepatitis_B_in_China)~~ Done
 
-## 7.About your favoriate movie.
+## 7. China gene-edited babies.
+In this blog, I want to talk about the issues that emerged in China's rapid development. Like the gene-edited babies, citizen privacy and air pollution. To be noted, in this blog, I don't mean to deliberately reveal the dark side of China, every developed country once this problems, like **Japan minamata disease events** and **Lodon Smoke Incident**.
 
-## 8.What do you think of Mandela?
+## 8. About your favoriate movie.
 
-## 9.Dog meat in China.
+## 9. What do you think of Mandela?
 
-## 10.Unity and division.
+## 10. Dog meat in China.
 
-## 11.Black Mirror
+In this blog, I want to talk about China's stunning eating habits. Like the pig brain, the pig tail, the monkey's brain, the poultry claws and the dog meat. And do my best to trace the source of these diet habits.
 
-## 12.Movie - Upgrade
+Some diet may be deadly, like the poisoning caused by puffer fish, SARS.
 
-## 13.Tell me about the history events you have experienced.
+## 11. Unity and division.
 
+## 12. Black Mirror
 
+## 13. Movie - Upgrade
+
+## 14. Tell me about the history events you have experienced.
 
