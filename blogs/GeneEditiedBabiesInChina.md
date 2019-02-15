@@ -56,6 +56,20 @@ When I was in high school, the setenct **"pollution first, then treatment"** on 
 
 ## Internet privicy
 
+To some extent, China has no Internet privacy. Although, China Internet industry has become an important part of the world. Can you believe that Chinese hardly use cash in daily life, I can travel all over the country without cash, just use my cellphone.
+
+The development of the Internet industry is benefit from the Great Firewall. That's why Alibaba, Tencent, Baidu can become a powerful technology company in the world. But it is another story.
+
+However, when it comes to Internet privacy, China is the worst country in the world. People don't care about their personal information, they click the agree button of privacy protocol subconscious. The main way of privacy disclosure is disclosure of the mail information. In the 2018.11.11, there are one billion pakcages posted in China. And people bought more than 21.35 billion RMB, roughly about 3 billon dollars on Alibaba.
+
+![](../figures/blog6/tianmao.jpg)
+
+I can imagine that how much personal information have been leaked through the mail bill. The other way that information leaked is that Company doesn't care about your personal information. Like when I search a book on my work computer in my office, when I come home and use personal laptop, I will see the book advertisement when I watch video. I have no idea how the apps can exchange my personal information.
+
+And Chinese, espicially the old people, they can use their information to exchange the cheap goods. Maybe it is prejudice, in China, the people between 50 ~ 65 is the worst quality group, the lack of education in Cultral Revolution may be one of the reasons.
+
+Increasingly, Internet users have realized that the imprortance of personal information. Apperantly, there is still a long way to go.
+
 ## Copycat
 
 ## Corruption of grass-roots officials
