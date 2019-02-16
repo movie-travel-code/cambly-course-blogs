@@ -1,5 +1,43 @@
-# Chinese Eating
+# Chinese Eating Habits
 
-中国饮食历史
+Chinese catering culture has a long history, I'm proud of it but it is just because China has a superior geographical and climatic conditions. So today I don't mean to publicize the catering culture. With the development of China, I must have a clean mind about the good side about China and the bad side of the China.
 
-中国饮食中的奇葩习惯
+The figure below is the ancient noodles discovered in China in 2005. The noodles were cooked 4000 years ago.
+
+![](../figures/blog7/ancient noodle.jpg)
+
+
+
+## Hotspot
+
+The Sichuan Hotspot or the Chongqing Hotspot are popular in China, they have spicy flavor. And they are also famous in world.
+
+The figure below is the typical hotspot in China, it has two kinds of soup, spicy one and not spicy one. There is fire below the spot, so the soup keep boiling. People put the food material into the soup, it is suitable in winter, because make you warm and dispel the cold.
+
+![](../figures/blog7/hotspot.jpg)
+
+Thre are two typical features about the hotspot, the spicy flavor and the animal viscera. So I'm going to explain why. The area enclosed in red circles is the Sichuan province and Chongqing province, the climate is humid. People believe spicy food can againt the humid climate. However I don't believe it.
+
+![](../figures/blog7/chongqing.png)
+
+The second feature about the hotpot is that people love the animal viscera. Because Chongqing is a port on the Yangtze Rive, there are so many poor hamal, they can't afford the best part meat of the animial, so they try to expore the  animal viscera, like `bovine blood vessels`, `Duck intestine`, `pig brain`, animal stomach, animal heart. They were surprised to find that the food was delicious.
+
+## Traditional Chinese medical science
+
+There are several weird food in traditioncal chinese medical science. They think the the tiger bone, snake or child urine can cure disease.
+
+The figure below is snakes in the liquor, people think it will make them stronger.
+
+![](../figures/blog7/snake.jpg)
+
+They think the animal penis can improve their sexual ability. The figure below is the donkey penis, it seems delicious, right?
+
+![](../figures/blog7/donkey.jpg) 
+
+## Cantonese cuisine
+
+The majority of Chinese actually don't eat these weird food, but the Cantonese are the people who like eating these strange food most. We believe the source of SARS is the Cantonese food.
+
+> Severe acute respiratory syndrome (SARS) is a viral respiratory disease of zoonotic origin caused by the *SARS coronavirus* (*SARS*-*CoV*). 
+
+There several animals are extinct because people hunt them for food.
