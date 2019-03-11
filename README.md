@@ -20,10 +20,10 @@ In this topic I will introduce you the orgin, the activities, and the culture of
 
 ## ~~6.[Hepatitis B in China](https://en.wikipedia.org/wiki/Hepatitis_B_in_China)~~ Done
 
-## 7. China gene-edited babies.
+## 7. ~~China gene-edited babies.~~
 In this blog, I want to talk about the issues that emerged in China's rapid development. Like the gene-edited babies, citizen privacy and air pollution. To be noted, in this blog, I don't mean to deliberately reveal the dark side of China, every developed country once this problems, like **Japan minamata disease events** and **Lodon Smoke Incident**.
 
-## 8. The Present Situation of Young People in China
+## 8. ~~The Present Situation of Young People in China~~
 
 In this blog, I will talk about the present situation of young people in China, what they think, what they do. And I will give the answer why elder have to buy house for their children. I will introduce the **Left-behind children in China**, **Left-behind elder in China**.
 
@@ -33,7 +33,7 @@ I will talk with you about responsibility education to the young people and how 
 
 ## 10. What do you think of Mandela?
 
-## 11. Dog meat in China.
+## 11. ~~Dog meat in China.~~
 
 In this blog, I want to talk about China's stunning eating habits. Like the pig brain, the pig tail, the monkey's brain, the poultry claws and the dog meat. And do my best to trace the source of these diet habits.
 
@@ -46,4 +46,8 @@ Some diet may be deadly, like the poisoning caused by puffer fish, SARS.
 ## 14. Movie - Upgrade
 
 ## 15. Tell me about the history events you have experienced.
+
+## 16. The countries in my eyes.
+
+In this blog, I want talk about the impressions of each country in my eyes. Mainly about the east asia and the Western countries.
 
